@@ -45,6 +45,7 @@ python twelve_heavens_demo.py
 ```
 
 ![demo screenshot placeholder](docs/screenshot.png)
+<img width="1376" height="768" alt="twelve havens gameplayscenario" src="https://github.com/user-attachments/assets/27f03928-ef0b-44e0-9025-da6492970986" />
 
 ---
 
