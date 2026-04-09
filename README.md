@@ -303,4 +303,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-*Twelve Heavens is a solo project in active development. Contributions, feedback, and ideas are welcome.*
+*Twelve Heavens is a solo project in active development. 
