@@ -4,6 +4,8 @@
 
 A top-down exploration RPG inspired by the Chinese Zodiac, built in Python + Pygame. Travel across twelve sacred regions, absorb Zodiac Wisdoms from ancient temples, and make decisions that permanently shape the world around you.
 
+<img width="1376" height="768" alt="Twelve Haven Art" src="https://github.com/user-attachments/assets/f006dce0-8ca5-4b2b-b404-175a438ef0d4" />
+
 ---
 
 ## Table of Contents
